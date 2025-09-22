@@ -2,4 +2,4 @@
 Player Selection for the Ashesi Premier League code
 Name: Precious Nyirenda
 ID: 53652028
-Lab No: Lab 1
+Lab number: Lab 1
